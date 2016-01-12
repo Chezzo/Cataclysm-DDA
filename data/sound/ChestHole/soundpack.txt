@@ -1,0 +1,5 @@
+#Chesthole soundpack
+#Name of the soundpack
+NAME: ChestHole
+#Viewing name of the soundpack
+VIEW: ChestHole
