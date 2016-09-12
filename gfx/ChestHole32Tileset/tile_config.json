@@ -22206,37 +22206,7 @@
           "rotates": true
         },
         {
-          "id": "vp_mounted_tank_manual",
-          "fg": 3899,
-          "rotates": true
-        },
-        {
-          "id": "vp_mounted_tank_auto",
-          "fg": 3899,
-          "rotates": true
-        },
-        {
-          "id": "vp_mounted_howitzer",
-          "fg": 3899,
-          "rotates": true
-        },
-        {
-          "id": ["vp_mounted_tank_105", "atiharturret"],
-          "fg": 3899,
-          "rotates": true
-        },
-        {
-          "id": "vp_mounted_tank_rws",
-          "fg": 3899,
-          "rotates": true
-        },
-        {
-          "id": "vp_tow_launcher",
-          "fg": 3899,
-          "rotates": true
-        },
-        {
-          "id": "vp_tow_turret",
+          "id": ["vp_tow_turret", "vp_mounted_tank_105", "atiharturret", "vp_mounted_tank_manual", "vp_mounted_tank_auto", "vp_mounted_howitzer", "vp_mounted_tank_rws", "vp_tow_launcher"],
           "fg": 3899,
           "rotates": true
         },
@@ -35624,37 +35594,37 @@
         },
         {
           "id": "incendiary_hm_rocket",
-          "fg": 3433,
+          "fg": 3434,
           "bg": 632,
           "rotates": false
         },
         {
           "id": "lasagne",
-          "fg": 3434,
+          "fg": 3433,
           "bg": 632,
           "rotates": false
         },
         {
           "id": "ravioli",
-          "fg": 3434,
+          "fg": 3433,
           "bg": 632,
           "rotates": false
         },
         {
           "id": "lasagne_cooked",
-          "fg": 3434,
+          "fg": 3433,
           "bg": 632,
           "rotates": false
         },
         {
           "id": "lasagne_raw",
-          "fg": 3434,
+          "fg": 3433,
           "bg": 632,
           "rotates": false
         },
         {
           "id": "luigilasagne",
-          "fg": 3434,
+          "fg": 3433,
           "bg": 632,
           "rotates": false
         },
@@ -51559,7 +51529,7 @@
 	    ]
         },
         {
-          "id": "vp_flamethrower",
+          "id": ["vp_flamethrower", "vp_flamethrower1", "vp_flamethrower2", "vp_flamethrower3"],
           "fg": 2679,
           "rotates": true,
           "multitile": true,
@@ -52778,7 +52748,7 @@
 	    ]
         },
         {
-          "id": "vp_mounted_m1918",
+          "id": ["vp_mounted_m1918", "vp_rifleturret", "vp_50turret", "vp_am249"],
           "fg": 2733,
           "rotates": true,
 	  "multitile": true,
@@ -52790,7 +52760,7 @@
 	    ]
         },
         {
-          "id": "vp_mounted_mk19",
+          "id": ["vp_mounted_mk19", "vp_SMG9mm", "vp_SMG22", "vp_SMG25", "vp_SMG45"],
           "fg": 2734,
           "rotates": true,
 	  "multitile": true,
@@ -52802,7 +52772,7 @@
 	    ]
         },
         {
-          "id": "vp_plasma_gun",
+          "id": ["vp_plasma_gun", "vp_anailer"],
           "fg": 2736,
           "rotates": true,
 	  "multitile": true,
@@ -52838,7 +52808,7 @@
 	    ]
         },
         {
-          "id": "vp_laser_rifle",
+          "id": ["vp_laser_rifle", "vp_alaser_gunp", "vp_alasergunx", "vp_alasergun", "vp_alaser_gunp"], 
           "fg": 2736,
           "rotates": true,
 	  "multitile": true,
@@ -53909,6 +53879,36 @@
         {
           "id": "t_tree_maple_tapped_season_winter",
           "fg": 4062,
+          "bg": 669
+        },
+        {
+          "id": "nothing_yet",
+          "fg": 4063,
+          "bg": 669
+        },
+        {
+          "id": ["vp_scorpion", "vp_40mmturret", "vp_am2browning", "vp_agattler1"],
+          "fg": 4064,
+          "bg": 669
+        },
+        {
+          "id": ["vp_aripper", "vp_shottyman", "vp_ablundergun", "vp_arm298", "vp_ashardgun", "vp_arailturret"],
+          "fg": 4065,
+          "bg": 669
+        },
+        {
+          "id": ["vp_acangun"],
+          "fg": 4066,
+          "bg": 669
+        },
+        {
+          "id": ["vp_rslauncher", "vp_abolter", "vp_aneedler"],
+          "fg": 4067,
+          "bg": 669
+        },
+        {
+          "id": ["vp_shooter"],
+          "fg": 4068,
           "bg": 669
         }
 
